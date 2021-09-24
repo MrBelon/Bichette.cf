@@ -1,3 +1,0 @@
-"format:fix": "pretty-quick --staged",
-"precommit": "run-s format:fix lint",
-"lint": "ng lint",
